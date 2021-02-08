@@ -1,0 +1,28 @@
+Mean
+0,0,2,3,0,1,0,2,0
+
+(0+0+2+3+0+1+0+2+0) / 9 = 0,88 it  is the average
+
+Median
+0,0,2,3,0,1,0,2,0 => 0,0,0,0,0,1,2,2,3 => Median = 0 (it is the middle element)
+
+Mode
+0:5, 1:1, 2:2, 3:1 => Mode is 0, it is the most common element
+
+
+
+Jupyter MeanMedianMode:
+https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html?highlight=random
+https://en.wikipedia.org/wiki/Normal_distribution
+
+import numpy as np
+incomes = np.random.normal(27000, 15000, 10000) //27000 Mean (“centre”) of the distribution, 15000 Standard deviation (spread or “width”) of the distribution. Must be non-negative. and 10000 is size samples
+np.mean(incomes)
+
+%matplotlib inline //it is required to see this graphs
+import matplotlib.pyplot as plt
+plt.hist(incomes, 50)
+plt.show()
+
+np.mean(incomes) //mean
+np.median(incomes) //median

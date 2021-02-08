@@ -1,0 +1,23 @@
+https://en.wikipedia.org/wiki/Conditional_probability
+
+https://www.mygreatlearning.com/blog/covariance-vs-correlation/#variance
+
+https://www.todamateria.com.br/matematica/estatistica/
+https://www.todamateria.com.br/desvio-padrao/
+
+https://matplotlib.org/tutorials/introductory/sample_plots.html
+
+https://www.investopedia.com/ask/answers/021215/what-difference-between-standard-deviation-and-variance.asp#:~:text=Key%20Takeaways,average%20of%20all%20data%20points.
+
+Standard deviation looks at how spread out a group of numbers is from the mean, by looking at the square root of the variance.
+The variance measures the average degree to which each point differs from the mean—the average of all data points.
+
+http://leg.ufpr.br/~paulojus/CE003/ce003/node4.html
+
+https://www.w3schools.com/python/numpy_random_exponential.asp
+
+https://www.w3schools.com/python/python_ml_multiple_regression.asp
+https://realpython.com/linear-regression-in-python/
+http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm
+Slope:
+https://en.wikipedia.org/wiki/Slope
